@@ -1,0 +1,10 @@
+C:\Users\Kadir\source\repos\OguBs\OguBs\bin\Debug\OguBs.exe.config
+C:\Users\Kadir\source\repos\OguBs\OguBs\bin\Debug\OguBs.exe
+C:\Users\Kadir\source\repos\OguBs\OguBs\bin\Debug\OguBs.pdb
+C:\Users\Kadir\source\repos\OguBs\OguBs\obj\Debug\OguBs.csproj.AssemblyReference.cache
+C:\Users\Kadir\source\repos\OguBs\OguBs\obj\Debug\OguBs.Properties.Resources.resources
+C:\Users\Kadir\source\repos\OguBs\OguBs\obj\Debug\OguBs.csproj.GenerateResource.cache
+C:\Users\Kadir\source\repos\OguBs\OguBs\obj\Debug\OguBs.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\source\repos\OguBs\OguBs\obj\Debug\OguBs.exe
+C:\Users\Kadir\source\repos\OguBs\OguBs\obj\Debug\OguBs.pdb
+C:\Users\Kadir\source\repos\OguBs\OguBs\obj\Debug\OgrenciBilgiSistemi.Form1.resources
